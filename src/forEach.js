@@ -9,3 +9,4 @@ a.forEach(function (v) {
 setTimeout(function () {
     process.exit();
 }, 500000);
+       
